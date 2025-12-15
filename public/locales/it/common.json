@@ -24,36 +24,36 @@
         "title": "Perché scegliere",
         "bentoPdf": "BentoPDF?",
         "noSignup": {
-            "title": "No Signup",
-            "description": "Start instantly, no accounts or emails."
+            "title": "Nessuna registrazione",
+            "description": "Inizia subito, nessun account o email richieste."
         },
         "noUploads": {
-            "title": "No Uploads",
-            "description": "100% client-side, your files never leave your device."
+            "title": "Nessun upload in server",
+            "description": "100% client-side, i tuoi file non lasciano mai il tuo dispositivo."
         },
         "foreverFree": {
-            "title": "Forever Free",
-            "description": "All tools, no trials, no paywalls."
+            "title": "Completamente gratuito",
+            "description": "Tutti gli strumenti, nessun periodo di prova, nessun paywall."
         },
         "noLimits": {
-            "title": "No Limits",
-            "description": "Use as much as you want, no hidden caps."
+            "title": "Nessuna limitazione",
+            "description": "Usa BentoPDF per quanto tempo tu voglia, senza limiti nascosti."
         },
         "batchProcessing": {
-            "title": "Batch Processing",
-            "description": "Handle unlimited PDFs in one go."
+            "title": "Elaborazione in blocco",
+            "description": "Gestisci una grande quantità di PDF in una volta sola."
         },
         "lightningFast": {
-            "title": "Lightning Fast",
-            "description": "Process PDFs instantly, without waiting or delays."
+            "title": "Super rapido",
+            "description": "Analizza i PDF in tempo reale, senza attendere."
         }
     },
     "tools": {
-        "title": "Get Started with",
-        "toolsLabel": "Tools",
-        "subtitle": "Click a tool to open the file uploader",
-        "searchPlaceholder": "Search for a tool (e.g., 'split', 'organize'...)",
-        "backToTools": "Back to Tools"
+        "title": "Fai pratica con gli",
+        "toolsLabel": "Strumenti",
+        "subtitle": "Clicca su queste voci per aprire il file uploader",
+        "searchPlaceholder": "Cerca uno strumento (es. 'dividi', 'organizza'...)",
+        "backToTools": "Torna alla lista"
     },
     "upload": {
         "clickToSelect": "Click to select a file",
