@@ -56,24 +56,24 @@
         "backToTools": "Torna alla lista"
     },
     "upload": {
-        "clickToSelect": "Click to select a file",
-        "orDragAndDrop": "or drag and drop",
-        "pdfOrImages": "PDFs or Images",
-        "filesNeverLeave": "Your files never leave your device.",
-        "addMore": "Add More Files",
-        "clearAll": "Clear All"
+        "clickToSelect": "Clicca per selezionare un file",
+        "orDragAndDrop": "oppure usa drag and drop",
+        "pdfOrImages": "PDF o Immagini",
+        "filesNeverLeave": "I tuoi file non lasciano mai il tuo dispositivo.",
+        "addMore": "Aggiungi più file",
+        "clearAll": "Annulla"
     },
     "loader": {
-        "processing": "Processing..."
+        "processing": "Elaborazione..."
     },
     "alert": {
-        "title": "Alert",
+        "title": "Allerta",
         "ok": "OK"
     },
     "preview": {
-        "title": "Document Preview",
-        "downloadAsPdf": "Download as PDF",
-        "close": "Close"
+        "title": "Anteprima del Documento",
+        "downloadAsPdf": "Scarica come PDF",
+        "close": "Chiudi"
     },
     "settings": {
         "title": "Settings",
